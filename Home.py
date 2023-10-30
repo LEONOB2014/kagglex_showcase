@@ -16,9 +16,9 @@ st.markdown(
 
 row1_col1, row1_col2 = st.columns(2)
 with row1_col1:
-    st.image("https://github.com/LEONOB2014/kagglex_showcase/blob/main/animations/termotasajeiro2.gif")
-    st.image("https://github.com/LEONOB2014/kagglex_showcase/blob/main/animations/termotasajeiro_1.gif")
+    st.image("https://github.com/LEONOB2014/kagglex_showcase/raw/main/animations/termotasajeiro2.gif")
+    st.image("https://github.com/LEONOB2014/kagglex_showcase/raw/main/animations/termotasajeiro_1.gif")
 
 with row1_col2:
-    st.image("https://github.com/giswqs/data/raw/main/timelapse/goes.gif")
-    st.image("https://github.com/giswqs/data/raw/main/timelapse/fire.gif")
+    st.image("https://github.com/LEONOB2014/kagglex_showcase/raw/main/animations/termozipa.gif")
+    st.image("https://github.com/LEONOB2014/kagglex_showcase/raw/main/animations/termozipa.gif")
