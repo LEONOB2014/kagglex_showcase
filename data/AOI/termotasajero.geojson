@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "termotasajero",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -72.636022906595372, 7.844449354417241 ], [ -72.636022906595372, 7.850443206099095 ], [ -72.629311481120595, 7.850443206099095 ], [ -72.629311481120595, 7.844449354417241 ], [ -72.636022906595372, 7.844449354417241 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "termopaipa_V",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -73.149118507115205, 5.765362390871906 ], [ -73.149118507115205, 5.770300986975969 ], [ -73.144264331457364, 5.770300986975969 ], [ -73.144264331457364, 5.765362390871906 ], [ -73.149118507115205, 5.765362390871906 ] ] ] ] } }
+]
+}
